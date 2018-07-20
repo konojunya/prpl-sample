@@ -2,6 +2,9 @@
 
 https://prpl-sample.firebaseapp.com/
 
+
+Affected by the following articles: https://dev.to/mizchi/-devto--b5
+
 ## CLI Commands
 
 ``` bash
