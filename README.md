@@ -1,5 +1,7 @@
 # prpl-sample
 
+https://prpl-sample.firebaseapp.com/
+
 ## CLI Commands
 
 ``` bash
